@@ -1,6 +1,6 @@
 from customtkinter import *  #Tkinter modülünün özelleştirilmiş hali
 from tkinter import Listbox
-from Modul import *  
+from function import *  
 import os
 from PIL import Image
 
