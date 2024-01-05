@@ -4,8 +4,8 @@ This is a basic Todo application developed for a programming lesson at my school
 
 ## Files
 
-### 1. Todo Functions File (function.py)
-The `function.py` file contains the core functions and logic for managing Todo tasks. These functions include adding tasks, marking tasks as complete, and removing task.
+### 1. Todo Functions File (functions.py)
+The `functions.py` file contains the core functions and logic for managing Todo tasks. These functions include adding tasks, marking tasks as complete, and removing task.
 
 ### 2. Interface File (interface.py)
 The `interface.py` file is responsible for the graphical user interface (GUI) of the program. It provides a simple and user-friendly interface for interacting with the ToDoZ application. Note that this file will be further detailed in the future.
