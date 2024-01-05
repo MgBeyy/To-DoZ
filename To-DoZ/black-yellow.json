@@ -1,0 +1,113 @@
+{
+    "CTk": {
+        "fg_color": [
+            "gray95",
+            "gray10"
+        ]
+    },
+    "CTkToplevel": {
+        "fg_color": [
+            "gray95",
+            "gray10"
+        ]
+    },
+    "CTkFrame": {
+        "corner_radius": 6,
+        "border_width": 0,
+        "fg_color": [
+            "black",
+            "gray13"
+        ],
+        "top_fg_color": [
+            "black",
+            "gray16"
+        ],
+        "border_color": [
+            "gray65",
+            "gray28"
+        ]
+    },
+    "CTkButton": {
+        "corner_radius": 6,
+        "border_width": 0,
+        "fg_color": [
+            "#ffc200",  
+            "#ffc200"  
+        ],
+        "hover_color": [
+            "#ffc200",  
+            "#ffc200"  
+        ],
+        "border_color": [
+            "#ffc200",  
+            "#ffc200"  
+        ],
+        "text_color": [
+            "black",  
+            "black"   
+        ],
+        "text_color_disabled": [
+            "gray74",
+            "gray60"
+        ]
+    },
+    "CTkLabel": {
+        "corner_radius": 0,
+        "fg_color": "transparent",
+        "text_color": [
+            "gray14",
+            "gray84"
+        ]
+    },
+    "CTkEntry": {
+        "corner_radius": 6,
+        "border_width": 2,
+        "fg_color": [
+            "#ffc200",  
+            "gray38"     
+        ],
+        "border_color": [
+            "#ffc200",  
+            "#ffc200"  
+        ],
+        "text_color": [
+            "black",  
+            "black"   
+        ],
+        "placeholder_text_color": [
+            "gray52",
+            "gray62"
+        ]
+    },
+    "DropdownMenu": {
+        "fg_color": [
+            "gray90",
+            "gray20"
+        ],
+        "hover_color": [
+            "gray75",
+            "gray28"
+        ],
+        "text_color": [
+            "gray14",
+            "gray84"
+        ]
+    },
+    "CTkFont": {
+        "macOS": {
+            "family": "SF Display",
+            "size": 13,
+            "weight": "bold"
+        },
+        "Windows": {
+            "family": "Roboto",
+            "size": 13,
+            "weight": "bold"
+        },
+        "Linux": {
+            "family": "Roboto",
+            "size": 13,
+            "weight": "bold"
+        }
+    }
+}
